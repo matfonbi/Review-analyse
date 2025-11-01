@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+elasticsearch==8.13.1
+transformers
+torch
