@@ -225,5 +225,5 @@ Visualisations recommandées :
 
 ## 11. Auteur
 
-Projet réalisé dans le cadre du module **Data Intelligence & Analytics (DIA2)** à **HETIC**  
-par **[Ton Nom]** — année 2025.
+Projet réalisé dans le cadre du module **Seconde session d’évaluation** à **HETIC**  
+par **Mathis Fonbonne** — année 2025.
